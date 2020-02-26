@@ -1,6 +1,6 @@
-# Capstone Project Write Up - Doyle
-## Does Reddit Know Who You Are? 
-### A Look into User Personality and Behaviour Prediction on Reddit
+
+# Does Reddit Know Who You Are? 
+## A Look into User Personality and Behaviour Prediction on Reddit
 
 ### Abstract 
 
