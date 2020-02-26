@@ -14,6 +14,7 @@ Nicknamed “Front Page of the Internet”, Reddit has always been a conglomerat
 Unlike other social networks such as Facebook and Instagram, users can post anonymously , thus granted more freedom. But do the posts still somehow reveal who we are deep down? This project aims to  predict what type of personality (MBTI) the user is based on their posts.  
 
 #### 1. Data Source
+Original Dataset: http://doi.org/10.5281/zenodo.1482951
 The data is compiled by Dylan Storey, a Data Scientist, and posted on the open scientific data platform Zenodo.
 The dataset contains over 10 million rows of comments.  For this project, I plan to use a subset around 3 million rows. 
 The features include users’ comments, the subreddit that the comment’s posted, users’ usernames and users’ personality indicator according to MBTI. The personality is acquired from the users’ “flair text”, which are written/chosen by the users themselves. 
@@ -80,9 +81,9 @@ Well, in conclusion, no regrets.
 
 
 #### References 
-- [ ] Reddit. “Reddit’s Year in Review: 2018.” **Upvoted**, 5 Dec. 2018, redditblog.com/2018/12/04/reddit-year-in-review-2018/.
-- [ ] Dylan Storey. (2018). Myers Briggs Personality Tags on Reddit Data (Version 0.1.0) [Data set]. Zenodo. [http://doi.org/10.5281/zenodo.1482951](http://doi.org/10.5281/zenodo.1482951) 
-- [ ] Thelwall, M. and Stuart, E., 2019. She’s Reddit: A source of statistically significant gendered interest information?.**Information Processing & Management**,**56**(4), pp.1543-1558.
+- Reddit. “Reddit’s Year in Review: 2018.” **Upvoted**, 5 Dec. 2018, redditblog.com/2018/12/04/reddit-year-in-review-2018/.
+- Dylan Storey. (2018). Myers Briggs Personality Tags on Reddit Data (Version 0.1.0) [Data set]. Zenodo. [http://doi.org/10.5281/zenodo.1482951](http://doi.org/10.5281/zenodo.1482951) 
+- Thelwall, M. and Stuart, E., 2019. She’s Reddit: A source of statistically significant gendered interest information?.**Information Processing & Management**,**56**(4), pp.1543-1558.
 
 
 
